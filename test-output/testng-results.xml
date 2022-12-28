@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-28T03:52:50Z" name="Default suite" finished-at="2022-12-28T03:53:37Z" duration-ms="46947">
+    <groups>
+    </groups>
+    <test started-at="2022-12-28T03:52:50Z" name="Default test" finished-at="2022-12-28T03:53:37Z" duration-ms="46947">
+      <class name="com.datadriven.test.DemoqaTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.datadriven.test.DemoqaTest@4681c175]" started-at="2022-12-28T09:22:51Z" name="setUp" finished-at="2022-12-28T09:23:03Z" duration-ms="12028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="demoqaPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.datadriven.test.DemoqaTest@4681c175]" started-at="2022-12-28T09:23:03Z" name="demoqaPage" data-provider="getTestData" finished-at="2022-12-28T09:23:06Z" duration-ms="2777" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Google@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9866302180]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Development]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoqaPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.datadriven.test.DemoqaTest@4681c175]" started-at="2022-12-28T09:23:06Z" name="tearDown" finished-at="2022-12-28T09:23:07Z" duration-ms="1195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.datadriven.test.DemoqaTest@4681c175]" started-at="2022-12-28T09:23:07Z" name="setUp" finished-at="2022-12-28T09:23:17Z" duration-ms="10063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="demoqaPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.datadriven.test.DemoqaTest@4681c175]" started-at="2022-12-28T09:23:17Z" name="demoqaPage" data-provider="getTestData" finished-at="2022-12-28T09:23:19Z" duration-ms="2681" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[David]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cris]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Amazon@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7901287265]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[150]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoqaPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.datadriven.test.DemoqaTest@4681c175]" started-at="2022-12-28T09:23:19Z" name="tearDown" finished-at="2022-12-28T09:23:21Z" duration-ms="1199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.datadriven.test.DemoqaTest@4681c175]" started-at="2022-12-28T09:23:21Z" name="setUp" finished-at="2022-12-28T09:23:33Z" duration-ms="12655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="demoqaPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.datadriven.test.DemoqaTest@4681c175]" started-at="2022-12-28T09:23:33Z" name="demoqaPage" data-provider="getTestData" finished-at="2022-12-28T09:23:36Z" duration-ms="2649" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mukta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ebay@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9133150535]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[support]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Other]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoqaPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.datadriven.test.DemoqaTest@4681c175]" started-at="2022-12-28T09:23:36Z" name="tearDown" finished-at="2022-12-28T09:23:37Z" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.datadriven.test.DemoqaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
